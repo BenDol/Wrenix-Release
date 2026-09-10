@@ -1,3 +1,4 @@
+<div align="center"><img src="https://wrenix.ai/assets/img/wrenix-mark.svg" height="128"></img></div>
 <h1 align="center">Wrenix</h1>
 
 <p align="center"><strong>Agent Super Harness.</strong> Many minds. One direction.</p>
