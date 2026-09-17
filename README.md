@@ -1,4 +1,4 @@
-<div align="center"><img src="https://wrenspace.ai/assets/img/wrenspace-mark.svg" height="128"></img></div>
+<div align="center"><img src="https://wrenspace.ai/assets/img/wrenix-mark.svg" height="128"></img></div>
 <h1 align="center">Wrenspace</h1>
 
 <p align="center"><strong>Agent Super Harness.</strong> Many minds. One direction.</p>
